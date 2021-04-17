@@ -43,7 +43,7 @@ public class Day01GetRequest02 {
 	 * https://restful-booker.herokuapp.com/booking/1001
 	 * 
 	 * then() status code 404'dur. and() Response body de "Not Found" var and()
-	 * Response body de "Suleyman" var
+	 * Response body de "Suleyman" yok
 	 */
 
 	@Test
